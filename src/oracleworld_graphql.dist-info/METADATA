@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.6
+Name: oracleworld_graphql
+Formal-Name: oracleWorld_Graphql
+App-ID: com.example.oracleworld.oracleworld_graphql
+Version: 0.0.1
+Home-page: https://oracleworld.example.com/oracleworld_graphql
+Author: Rahul M R
+Author-email: rahul@oracleworld.example.com
+Summary: Graphql with Mobile
